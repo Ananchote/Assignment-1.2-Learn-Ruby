@@ -1,1 +1,1 @@
-# Homework1
+#Assignment 1.2 Learn Ruby
